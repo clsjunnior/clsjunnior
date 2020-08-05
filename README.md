@@ -10,7 +10,7 @@ Com a experiência adquirida com o decorrer dos anos, contribui em projetos de g
 
 - 🔭 Eu trabalho atualmente com React, PHP, C# e UI Design.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clsjunnior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos :mega:
 
