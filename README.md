@@ -8,7 +8,7 @@ Analista de Sistemas, formado pelo Centro Universitário de Lins/SP - UNILINS. T
 Com a experiência adquirida com o decorrer dos anos, contribui em projetos de grande porte, tais como, E-commerce, aplicações web, aplicações desktop e Apps mobile.
 
 
-- 🔭 Eu trabalho atualmente com React, PHP, C# e UI Design.
+- 🔭 Eu trabalho atualmente com integrações de Ecommerce VTEX, React, Typescript, PHP, e UI Design.
 
 ### Contatos :mega:
 
