@@ -16,3 +16,14 @@ Com a experiência adquirida com o decorrer dos anos, contribui em projetos de g
 - :mailbox: hello@cjdesigner.com.br
 - :link: [Sourcerer tech profile](https://sourcerer.io/clsjunnior)
 
+### Github Stats 🛠 &nbsp;
+
+<p align="left">
+  <a href="https://github.com/clsjunnior">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clsjunnior&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues,contribs" />
+
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clsjunnior&&layout=compact&theme=react" />
+   </a>
+ </p>
+ 
+
