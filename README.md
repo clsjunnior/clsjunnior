@@ -20,7 +20,6 @@ Com a experiência adquirida com o decorrer dos anos, contribui em projetos de g
 ### Contatos :mega:
 
 - :link: [Portifólio](https://cjdesigner.com.br/)
-- :mailbox: hello@cjdesigner.com.br
 - :link: [Sourcerer tech profile](https://sourcerer.io/clsjunnior)
 
 ### Github Stats 🛠 &nbsp;
