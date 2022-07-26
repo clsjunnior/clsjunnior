@@ -8,18 +8,19 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GatsbyJs](https://img.shields.io/badge/-GatsbyJs-333333?style=flat&logo=gatsby)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
+![Netlify](https://img.shields.io/badge/-NetlifyCMS-333333?style=flat&logo=Netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)&nbsp;
 
 ### Desenvolvedor Front-End​ :rocket:
-Analista de Sistemas, formado pelo Centro Universitário de Lins/SP - UNILINS. Trabalhando com desenvolvimento WEB á mais de 5 anos com foco em Front-end, Experiência de Usuário e Prototipação de Interfaces de sites e aplicações. Com sólido conhecimento em Design, focado na criação de peças publicitárias impressas e digitais de diversos segmentos.
+Analista de Sistemas, formado pelo Centro Universitário de Lins/SP - UNILINS. Trabalhando com desenvolvimento WEB á mais de 7 anos com foco em Front-end, Experiência de Usuário e Prototipação de Interfaces web.
 
-Com a experiência adquirida com o decorrer dos anos, contribui em projetos de grande porte, tais como, E-commerce, aplicações web, aplicações desktop e Apps mobile.
-
-
-- 🔭 Eu trabalho atualmente com integrações de Ecommerce VTEX, React, Typescript, PHP, e UI Design.
+Com a experiência adquirida com o decorrer dos anos, contribui em projetos de grande porte, tais como, grandes E-commerces utilizando VTEX + React, aplicações web complexas utilizando como base o Javascript e seus principais frameworks e integrações com o back-end através de API rest e GraphQL.
 
 ### Contatos :mega:
 
-- :link: [Portifólio](https://cjdesigner.com.br/)
 - :link: [Sourcerer tech profile](https://sourcerer.io/clsjunnior)
 
 ### Github Stats 🛠 &nbsp;
