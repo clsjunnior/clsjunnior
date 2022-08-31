@@ -15,9 +15,9 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)&nbsp;
 
 ### Desenvolvedor Front-End​ :rocket:
-Analista de Sistemas, formado pelo Centro Universitário de Lins/SP - UNILINS. Trabalhando com desenvolvimento WEB á mais de 7 anos com foco em Front-end, Experiência de Usuário e Prototipação de Interfaces web.
+Desenvolvedor Front-end formado pelo Centro Universitário de Lins/SP - UNILINS. Há sete anos atuando na área de desenvolvimento com foco em Experiência de Usuário e Design de Interfaces web.
 
-Com a experiência adquirida com o decorrer dos anos, contribui em projetos de grande porte, tais como, grandes E-commerces utilizando VTEX + React, aplicações web complexas utilizando como base o Javascript e seus principais frameworks e integrações com o back-end através de API rest e GraphQL.
+Com a experiência adquirida com o decorrer dos anos, contribui em projetos de grande porte, tais como, grandes E-commerces utilizando VTEX + React, aplicações web complexas utilizando como base o Javascript e seus principais frameworks e integrações com o back-end através de API REST e GraphQL.
 
 ### Contatos :mega:
 
