@@ -1,6 +1,5 @@
 # Celso Junior
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junior/)](https://www.linkedin.com/in/celso-junior/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
@@ -21,7 +20,8 @@ Com a experiência adquirida com o decorrer dos anos, contribui em projetos de g
 
 ### Contatos :mega:
 
-- :link: [Sourcerer tech profile](https://sourcerer.io/clsjunnior)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junior/)](https://www.linkedin.com/in/celso-junior/)
+- hello@cjunnior.dev
 
 ### Github Stats 🛠 &nbsp;
 
